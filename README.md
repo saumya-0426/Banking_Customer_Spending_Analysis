@@ -9,7 +9,7 @@ Raw transaction data makes it difficult to identify spending patterns and derive
 ## Tech Stack
 - **Python:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
-- **Business Intelligence:** Power BI, DAX
+- **Business Intelligence:** Power BI
 - **Environment:** Google Colab
 
 ## Methodology
